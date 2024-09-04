@@ -15,6 +15,19 @@ Este é um projeto de uma página interativa que descreve as características do
 - **JavaScript**: Manipulação do DOM para alternar imagens e informações de dragões.
 - **Google Fonts**: Fonte customizada utilizada no projeto (Poppins).
 
+## Como Usar
+
+Faça o download ou clone este repositório:
+
+git clone https://github.com/seuusuario/nome-do-repositorio.git
+Abra o arquivo index.html em qualquer navegador para visualizar a página.
+
+Interaja com o carrossel de dragões clicando nos botões para ver diferentes dragões e suas descrições.
+
+## Observação
+
+A qualidade das imagens não está muito boa, sinta-se a vontade para usar as suas.
+
 ## Estrutura de Arquivos
 
 ```plaintext
@@ -32,16 +45,3 @@ Este é um projeto de uma página interativa que descreve as características do
 │   └── js
 │       └── index.js
 └── README.md
-
-## Como Usar
-
-Faça o download ou clone este repositório:
-
-git clone https://github.com/Rafaela-Wolf/house-of-the-dragon.git
-Abra o arquivo index.html em qualquer navegador para visualizar a página.
-
-Interaja com o carrossel de dragões clicando nos botões para ver diferentes dragões e suas descrições.
-
-## Observação
-
-A qualidade das imagens não está muito boa, sinta-se a vontade para usar as suas.

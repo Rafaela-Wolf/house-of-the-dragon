@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'GOT';
+    src: url(../fontes/GOT.ttf);
+}
+
+@keyframes mudarImagem {
+    from {
+        opacity: 0.85;
+    } to {
+        opacity: 1;
+    }
+}
